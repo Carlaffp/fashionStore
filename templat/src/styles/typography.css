@@ -1,0 +1,37 @@
+.title1{
+  color: var(--color-black);
+  font-family: var(--font-primary);
+  font-weight: 500;
+  line-height: 1.4;
+  font-size: 6.25rem;
+}
+
+.title2{
+  color: var(--color-black);
+  font-family: var(--font-primary);
+  font-weight: 500;
+  line-height: 1.4;
+  font-size: 3.75rem;
+}
+
+.log{
+  color: var(--color-black);
+  font-family: var(--font-primary);
+  font-weight: 500;
+  line-height: 1.4;
+  font-size: 1.875rem;
+}
+
+.paragraph{
+  color: var(--color-black);
+  font-family: var(--font-primary);
+  font-weight: 700;
+  font-size: 1.875rem;
+}
+
+.price{
+  color: var(--color-black);
+  font-family: var(--font-primary);
+  font-weight: 400;
+  font-size: 1.125rem;
+}

@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+ul,
+ol{
+  list-style: none;
+}
+
+a{text-align: none;}
+button{
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+
+input,select,textarea{
+  background-color: transparent;
+  border: none;
+}
+
+img{
+  max-width: 100% ;
+}

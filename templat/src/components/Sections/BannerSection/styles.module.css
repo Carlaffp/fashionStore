@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+
+  justify-content: space-between;
+  width: 100%;
+}
+
+.container img {
+  width: calc(100% - 25rem);
+}
+
+.containerInfo {
+  width: 21.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
